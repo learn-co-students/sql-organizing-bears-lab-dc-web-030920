@@ -6,3 +6,4 @@ INSERT INTO bears(name,age,gender,color,temperament,alive) VALUES ('Melissa',13,
 INSERT INTO bears(name,age,gender,color,temperament,alive) VALUES ('Grinch',2,'M','Yellow','Goofy',true);
 INSERT INTO bears(name,age,gender,color,temperament,alive) VALUES ('Wendy',6,'F','Blue','Goofy',true);
 INSERT INTO bears(name,age,gender,color,temperament,alive) VALUES (NULL,20,'M','Red','Savage',false);
+
